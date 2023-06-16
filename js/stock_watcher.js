@@ -30,7 +30,7 @@ async function showMostRecentTransaction() {
     <span style="font-weight: bold; color: #71a276;">DISCLOSURE DATE:</span> <span style="font-size: 0.8em;">${disclosureDate}</span><br>
     <span style="font-weight: bold; color: #71a276;">TRANSACTION:</span> <span style="font-size: 0.8em;">${type}</span><br>
     <span style="font-weight: bold; color: #71a276;">AMOUNT:</span> <span style="font-size: 0.8em;">${amount}</span><br>
-    <span style="font-weight: bold; color: #71a276;">STOCK:</span> <span style="font-size: 0.8em;">${ticker}</span>
+    <span style="font-weight: bold; color: #71a276;">STOCK TICKER:</span> <span style="font-size: 0.8em;">${ticker}</span>
   `;  
   } catch (error) {
     console.error('Error:', error);
