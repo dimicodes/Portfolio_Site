@@ -1,9 +1,9 @@
 function getISSLocation() {
-    fetch("http://api.open-notify.org/iss-now.json")
+    fetch("https://api.wheretheiss.at/v1/satellites/25544")
       .then((response) => response.json())
       .then((data) => {
-        const issLatitude = data.iss_position.latitude;
-        const issLongitude = data.iss_position.longitude;
+        const issLatitude = data.latitude;
+        const issLongitude = data.longitude;
   
         const reverseGeocodingUrl = `https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${issLatitude}&longitude=${issLongitude}&localityLanguage=en`;
   
