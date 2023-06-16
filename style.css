@@ -302,13 +302,6 @@ h2 {
   color: white;
 }
 
-.video {
-  width: 20%;
-  position: absolute;
-  top: 35%;
-  left: 55%;
-}
-
 .services-container {
   display: flex;
   width: 75%;
@@ -1059,10 +1052,6 @@ a:visited {
     width: 80%;
   }
 
-  .video {
-    width: 90%;
-  }
-
   .intro {
     margin: 100px auto 0 auto;
     margin-bottom: 0;
@@ -1202,13 +1191,6 @@ a:visited {
     transform: translate(-50%, -50%);
     z-index: 1;
     color: white;
-  }
-
-  .video {
-    width: 18%;
-    position: absolute;
-    top: 24%;
-    left: 55%;
   }
 }
 
