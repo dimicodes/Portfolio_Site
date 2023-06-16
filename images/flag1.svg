@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 305 887">
+<g stroke-width="0.30" fill="none" stroke-linecap="butt">
+<path stroke="#626a7f" vector-effect="non-scaling-stroke" d="
+  M 227.96 196.00
+  L 161.04 172.75"
+/>
+<path stroke="#9999a2" vector-effect="non-scaling-stroke" d="
+  M 227.96 283.75
+  Q 218.37 280.63 208.92 277.10
+  Q 208.24 276.84 208.01 277.18"
+/>
+</g>
+<path fill="#91a1ba" d="
+  M 227.96 196.00
+  L 161.04 172.75
+  L 57.03 136.35
+  Q 56.00 135.99 56.98 135.51
+  L 227.09 52.43
+  A 0.63 0.63 -12.9 0 1 228.00 53.00
+  L 227.96 196.00
+  Z"
+/>
+<path fill="#323244" d="
+  M 161.04 172.75
+  L 227.96 196.00
+  L 227.96 283.75
+  Q 218.37 280.63 208.92 277.10
+  Q 208.24 276.84 208.01 277.18
+  L 57.16 224.39
+  Q 56.03 224.00 57.10 223.47
+  L 161.04 172.75
+  Z"
+/>
+<path fill="#ffffff" d="
+  M 227.96 283.75
+  L 227.94 887.00
+  L 208.19 887.00
+  Q 208.00 860.02 208.00 791.50
+  Q 207.99 534.42 208.01 277.18
+  Q 208.24 276.84 208.92 277.10
+  Q 218.37 280.63 227.96 283.75
+  Z"
+/>
+</svg>
