@@ -1,12 +1,10 @@
 # Portfolio_Site
 This is a final term project for MET's CS601 Front End Web Development course. Utilizing HTML, CSS, JavaScript, and Vue- the portfolio site aims to show my skills in these topics and previously completed projects.
 
-**email.js 
-** 
+**email.js**
 This script takes the values from the site form, opens a new email on the user's computer, and pre-fills the body of the email with the values from the form.
 
-**iss.js
-**
+**iss.js**
 This script pulls the current coordinates of the ISS from the "whereistheiss" API, then uses "bigdatacloud" API to reverse-GeoCode the coordinates and give the approximate location of the ISS in terms of country/ocean location.
 
 **navbar.js**
