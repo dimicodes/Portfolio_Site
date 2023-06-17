@@ -44,6 +44,13 @@
       format("svg"); /* Legacy iOS */
 }
 
+/* DESIGN PAGE */
+.portrait-construct {
+  width: 50%;
+  margin-bottom: 100px;
+}
+/* DESIGN PAGE */
+
 body {
   margin: 0;
   text-align: center;
@@ -488,41 +495,6 @@ h2 {
   top: 90%;
   transform: scaleX(-1);
 }
-
-/* DESIGN PAGE */
-#hair {
-  transform: translateX(100);
-  transition: transform 0.3s ease-in-out;
-}
-
-.design-header {
-  margin: auto;
-}
-
-.portrait-construction {
-  margin: 40% auto;
-}
-.portrait-hair {
-  width: 30%;
-  position: absolute;
-  right: 65%;
-  top: 95%;
-}
-
-.portrait-face {
-  width: 30%;
-  position: absolute;
-  right: 35%;
-  top: 95%;
-}
-
-.portrait-body {
-  width: 30%;
-  position: absolute;
-  right: 5%;
-  top: 95%;
-}
-/* DESIGN PAGE */
 
 .footer-link {
   color: rgba(255, 255, 255, 1);
@@ -1195,42 +1167,6 @@ a:visited {
 }
 
 @media (max-width: 500px) {
-  /* DESIGN PAGE */
-  #hair {
-    transform: translateX(100);
-    transition: transform 0.3s ease-in-out;
-  }
-
-  .design-header {
-    margin: auto;
-    padding-bottom: 50%;
-  }
-
-  .portrait-construction {
-    margin: 10% auto 0 auto;
-  }
-  .portrait-hair {
-    width: 30%;
-    position: absolute;
-    right: 65%;
-    top: 110%;
-  }
-
-  .portrait-face {
-    width: 30%;
-    position: absolute;
-    right: 35%;
-    top: 110%;
-  }
-
-  .portrait-body {
-    width: 30%;
-    position: absolute;
-    right: 5%;
-    top: 110%;
-  }
-  /* DESIGN PAGE */
-
   .navbar-brand {
     transform: translateX(-50px);
   }
